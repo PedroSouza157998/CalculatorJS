@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	background-color: #4F4F4F;
+}
+input[type = "number"]{
+	background: none;
+	border: 2px solid white;
+	color: white;
+	font-size: 30px;
+	border-radius: 8px;
+	height: 40px;
+	width: 95px;
+}
+input[type = "submit"]{
+	width: 40px;
+	height: 40px;
+	font-size: 30px;
+}
+.box{
+	background-color: #1C1C1C;
+	width: 500px;
+	height: 300px;
+	margin-left: 30%;
+	margin-top: 10%;
+}
+h1{
+	color: white;
+}
